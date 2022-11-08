@@ -1,0 +1,25 @@
+.backgroundHome{
+    background-color: #1E1E1E;
+    size: 100rem;
+}
+
+.divTitles{
+    color: white;
+    font-family: 'Inter';
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.columnButtons{
+    text-align: center;
+}
+
+.btn-primary{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 466px;
+    height: 108px;
+    left: 219px;
+    top: 288px;
+}
